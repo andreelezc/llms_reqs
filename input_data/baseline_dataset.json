@@ -12,7 +12,7 @@
     "FR #6": "The system must provide an option to rate the product after receiving it, indicated by a 'Rate product' button.",
     "FR #7": "Users must be able to repurchase the same product with a 'Comprar novamente' button if they wish to make another purchase of the same item.",
     "FR #8": "For canceled orders, the system must display a 'Canceled' status and provide options for users to rate the vendor or repurchase the product.", 
-    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_001.png?raw=true",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_001.png?raw=true"
   },
   {
     "ID": 2,

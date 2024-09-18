@@ -1,0 +1,485 @@
+[
+  {
+    "ID": 1,
+    "Image Filename": "mockup_001.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_001.png?raw=true",
+    "Caption": "Order Management Page for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Managing Orders and Interactions with Sellers"
+  },
+  {
+    "ID": 2,
+    "Image Filename": "mockup_002.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_002.png?raw=true",
+    "Caption": "Filter Options for Order Management Page in an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Filtering Orders by Status, Shipping, and Complaints"
+  },
+  {
+    "ID": 3,
+    "Image Filename": "mockup_003.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_003.png?raw=true",
+    "Caption": "Order Confirmation Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Confirming Receipt of a Purchased Product"
+  },
+  {
+    "ID": 4,
+    "Image Filename": "mockup_004.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_004.png?raw=true",
+    "Caption": "Seller Service Rating Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Rating the Seller's Service after Purchase"
+  },
+  {
+    "ID": 5,
+    "Image Filename": "mockup_005.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_005.png?raw=true",
+    "Caption": "Product Rating Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Rating the Received Product After Purchase"
+  },
+  {
+    "ID": 6,
+    "Image Filename": "mockup_006.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_006.png?raw=true",
+    "Caption": "Feedback Confirmation Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Confirming Submission of a Rating or Review"
+  },
+  {
+    "ID": 7,
+    "Image Filename": "mockup_007.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_007.png?raw=true",
+    "Caption": "Listing Screen of product search results for a specific category on an e-commerce platform focused on the agricultural sector",
+    "Process Flow": "Browsing and Interacting with Product Listings"
+  },
+  {
+    "ID": 8,
+    "Image Filename": "mockup_008.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_008.png?raw=true",
+    "Caption": "Product Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Filtering Products Based on Various Criteria"
+  },
+  {
+    "ID": 9,
+    "Image Filename": "mockup_009.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_009.png?raw=true",
+    "Caption": "Product Sorting and Listing Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Sorting and Viewing Product Listings"
+  },
+  {
+    "ID": 10,
+    "Image Filename": "mockup_010.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_010.png?raw=true",
+    "Caption": "Advanced Product Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Applying Advanced Filters to Product Listings"
+  },
+  {
+    "ID": 11,
+    "Image Filename": "mockup_011.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_011.png?raw=true",
+    "Caption": "Product Offer Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Applying Filters to Narrow Down Product Offers"
+  },
+  {
+    "ID": 12,
+    "Image Filename": "mockup_012.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_012.png?raw=true",
+    "Caption": "Product Offer Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Applying Advanced Filters to Narrow Down Product Offers"
+  },
+  {
+    "ID": 13,
+    "Image Filename": "mockup_013.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_013.png?raw=true",
+    "Caption": "Product Offer Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Applying Filters to Refine Product Offers"
+  },
+  {
+    "ID": 14,
+    "Image Filename": "mockup_014.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_014.png?raw=true",
+    "Caption": "Product Offers Listing Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Browsing and Interacting with Product Offers"
+  },
+  {
+    "ID": 15,
+    "Image Filename": "mockup_015.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_015.png?raw=true",
+    "Caption": "Quotation Request Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Requesting a Quotation from the Seller"
+  },
+  {
+    "ID": 16,
+    "Image Filename": "mockup_016.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_016.png?raw=true",
+    "Caption": "Content Reporting Confirmation Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Confirming Successful Submission of a Content Report"
+  },
+  {
+    "ID": 17,
+    "Image Filename": "mockup_017.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_017.png?raw=true",
+    "Caption": "Content Reporting Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Submitting a Content Report"
+  },
+  {
+    "ID": 18,
+    "Image Filename": "mockup_018.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_018.png?raw=true",
+    "Caption": "Publication Reporting Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Submitting a Report for a Publication"
+  },
+  {
+    "ID": 19,
+    "Image Filename": "mockup_019.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_019.png?raw=true",
+    "Caption": "Quotation Reactivation Confirmation Screen for an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Requesting Reactivation of a Quotation"
+  },
+  {
+    "ID": 20,
+    "Image Filename": "mockup_020.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_020.png?raw=true",
+    "Caption": "Request for reactivation of a received quotation",
+    "Process Flow": "Quotation Reactivation Request"
+  },
+  {
+    "ID": 21,
+    "Image Filename": "mockup_021.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_021.png?raw=true",
+    "Caption": "Quotation management screen showing pending and received quotations",
+    "Process Flow": "Quotation Management"
+  },
+  {
+    "ID": 22,
+    "Image Filename": "mockup_022.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_022.png?raw=true",
+    "Caption": "Pending quotations screen for managing pending quotations",
+    "Process Flow": "Pending Quotation Management"
+  },
+  {
+    "ID": 23,
+    "Image Filename": "mockup_023.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_023.png?raw=true",
+    "Caption": "Quotation management screen showing both pending and received quotations",
+    "Process Flow": "Quotation Management"
+  },
+  {
+    "ID": 24,
+    "Image Filename": "mockup_024.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_024.png?raw=true",
+    "Caption": "Quotation management screen showing empty states for pending and received quotations",
+    "Process Flow": "Empty Quotation Management"
+  },
+  {
+    "ID": 25,
+    "Image Filename": "mockup_025.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_025.png?raw=true",
+    "Caption": "Quotation sorting options in the quotation management screen",
+    "Process Flow": "Quotation Sorting"
+  },
+  {
+    "ID": 26,
+    "Image Filename": "mockup_026.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_026.png?raw=true",
+    "Caption": "Message exchange screen for a specific publication",
+    "Process Flow": "Quotation Message Management"
+  },
+  {
+    "ID": 27,
+    "Image Filename": "mockup_027.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_027.png?raw=true",
+    "Caption": "Screen for managing responses to questions about publications",
+    "Process Flow": "Publications Inquiry Management"
+  },
+  {
+    "ID": 28,
+    "Image Filename": "mockup_028.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_028.png?raw=true",
+    "Caption": "Screen for sorting and managing responses to publication inquiries",
+    "Process Flow": "Sorting and Managing Inquiries and Responses"
+  },
+  {
+    "ID": 29,
+    "Image Filename": "mockup_029.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_029.png?raw=true",
+    "Caption": "Screen for managing questions and answers related to product",
+    "Process Flow": "Product Inquiry Management"
+  },
+  {
+    "ID": 30,
+    "Image Filename": "mockup_030.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_030.png?raw=true",
+    "Caption": "Screen for managing questions and responses related to product with selection and delete options",
+    "Process Flow": "Product Inquiry Management with Bulk Actions"
+  },
+  {
+    "ID": 31,
+    "Image Filename": "mockup_031.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_031.png?raw=true",
+    "Caption": "Screen for sorting and managing unanswered questions about product",
+    "Process Flow": "Sorting and Managing Unanswered Inquiries"
+  },
+  {
+    "ID": 32,
+    "Image Filename": "mockup_032.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_032.png?raw=true",
+    "Caption": "Screen for managing unanswered questions with selection and delete options",
+    "Process Flow": "Unanswered Questions Management with Bulk Actions"
+  },
+  {
+    "ID": 33,
+    "Image Filename": "mockup_033.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_033.png?raw=true",
+    "Caption": "Screen displaying an empty state for answered questions",
+    "Process Flow": "Empty State Management for Answered Questions"
+  },
+  {
+    "ID": 34,
+    "Image Filename": "mockup_034.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_034.png?raw=true",
+    "Caption": "Screen displaying an empty state for unanswered questions",
+    "Process Flow": "Empty State Management for Unanswered Questions"
+  },
+  {
+    "ID": 35,
+    "Image Filename": "mockup_035.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_035.png?raw=true",
+    "Caption": "Sidebar menu for user account and navigation options",
+    "Process Flow": "User Account and Navigation Menu"
+  },
+  {
+    "ID": 36,
+    "Image Filename": "mockup_036.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_036.png?raw=true",
+    "Caption": "Category selection screen to search for a specific category of products",
+    "Process Flow": "Search for products by category"
+  },
+  {
+    "ID": 38,
+    "Image Filename": "mockup_038.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_038.png?raw=true",
+    "Caption": "Category selection screen for different product types in agriculture",
+    "Process Flow": "Product Category Selection for Agriculture"
+  },
+  {
+    "ID": 40,
+    "Image Filename": "mockup_040.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_040.png?raw=true",
+    "Caption": "Sidebar menu for user account and navigation options",
+    "Process Flow": "User Account and Navigation Menu"
+  },
+  {
+    "ID": 41,
+    "Image Filename": "mockup_041.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_041.png?raw=true",
+    "Caption": "Empty state for the message exchange screen related to a specific product",
+    "Process Flow": "Message Exchange for Product Inquiry"
+  },
+  {
+    "ID": 42,
+    "Image Filename": "mockup_042.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_042.png?raw=true",
+    "Caption": "Message exchange screen for a specific product inquiry",
+    "Process Flow": "Message Exchange for Product Inquiry"
+  },
+  {
+    "ID": 43,
+    "Image Filename": "mockup_043.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_043.png?raw=true",
+    "Caption": "Empty state for the purchases screen in an E-commerce Platform Focused on the Agricultural Sector",
+    "Process Flow": "Purchases Management"
+  },
+  {
+    "ID": 44,
+    "Image Filename": "mockup_044.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_044.png?raw=true",
+    "Caption": "Seller review screen displaying feedback and ratings",
+    "Process Flow": "Seller Review and Feedback Management"
+  },
+  {
+    "ID": 45,
+    "Image Filename": "mockup_045.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_045.png?raw=true",
+    "Caption": "Product review screen displaying feedback and ratings",
+    "Process Flow": "Product Review and Feedback Management"
+  },
+  {
+    "ID": 46,
+    "Image Filename": "mockup_046.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_046.png?raw=true",
+    "Caption": "Product listing screen of a specific Official Store",
+    "Process Flow": "Product Listing and Filtering for Official Store"
+  },
+  {
+    "ID": 47,
+    "Image Filename": "mockup_047.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_047.png?raw=true",
+    "Caption": "Product listing screen for a specific seller with sorting, filtering, and discount display options",
+    "Process Flow": "Product Listing and Filtering for specific Seller"
+  },
+  {
+    "ID": 48,
+    "Image Filename": "mockup_048.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_048.png?raw=true",
+    "Caption": "Favorite products management screen with delete functionality",
+    "Process Flow": "Favorite Products Management"
+  },
+  {
+    "ID": 49,
+    "Image Filename": "mockup_049.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_049.png?raw=true",
+    "Caption": "Official stores listing screen with search functionality",
+    "Process Flow": "List of Official Stores"
+  },
+  {
+    "ID": 50,
+    "Image Filename": "mockup_050.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_050.png?raw=true",
+    "Caption": "Homepage with product listings, offers, and categories for an E-commerce platform focused on agriculture",
+    "Process Flow": "Homepage Display and Navigation"
+  },
+  {
+    "ID": 51,
+    "Image Filename": "mockup_051.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_051.png?raw=true",
+    "Caption": "Search screen with recent search history and filter by seller",
+    "Process Flow": "Product Search with Filter Options"
+  },
+  {
+    "ID": 52,
+    "Image Filename": "mockup_052.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_052.png?raw=true",
+    "Caption": "Search results screen with suggested queries",
+    "Process Flow": "Product Search Suggestions and Refinement"
+  },
+  {
+    "ID": 53,
+    "Image Filename": "mockup_053.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_053.png?raw=true",
+    "Caption": "Search screen with recent search history and quick actions",
+    "Process Flow": "Product Search History and Quick Access"
+  },
+  {
+    "ID": 54,
+    "Image Filename": "mockup_054.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_054.png?raw=true",
+    "Caption": "Empty state screen for Official Store search with no results",
+    "Process Flow": "Official Store Search with No Results Handling"
+  },
+  {
+    "ID": 55,
+    "Image Filename": "mockup_055.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_055.png?raw=true",
+    "Caption": "Empty state screen for notifications",
+    "Process Flow": "Notification Management with Empty State Handling"
+  },
+  {
+    "ID": 56,
+    "Image Filename": "mockup_056.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_056.png?raw=true",
+    "Caption": "Login screen with options for account creation and password recovery",
+    "Process Flow": "User Authentication"
+  },
+  {
+    "ID": 57,
+    "Image Filename": "mockup_057.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_057.png?raw=true",
+    "Caption": "Login screen with error handling and password recovery option",
+    "Process Flow": "User Authentication"
+  },
+  {
+    "ID": 58,
+    "Image Filename": "mockup_058.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_058.png?raw=true",
+    "Caption": "User profile screen with identity verification and account management options",
+    "Process Flow": "User Profile Management"
+  },
+  {
+    "ID": 59,
+    "Image Filename": "mockup_059.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_059.png?raw=true",
+    "Caption": "Welcome screen for AgroCarteira Account with promotional offers and app download option",
+    "Process Flow": "AgroCarteira Account and Promotions"
+  },
+  {
+    "ID": 60,
+    "Image Filename": "mockup_060.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_060.png?raw=true",
+    "Caption": "Form screen to enter level 2 registration to create an account in agrocarteira, a virtual wallet",
+    "Process Flow": "Level 2 Registration to Create an Account at Agrocarteira"
+  },
+  {
+    "ID": 61,
+    "Image Filename": "mockup_061.jpg",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_061.jpg?raw=true",
+    "Caption": "Form screen to enter level 2 registration to create an account in agrocarteira, a virtual wallet",
+    "Process Flow": "Level 2 Registration to Create an Account at Agrocarteira"
+  },
+  {
+    "ID": 62,
+    "Image Filename": "mockup_062.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_062.png?raw=true",
+    "Caption": "Account creation form for a legal entity with validation and terms acceptance",
+    "Process Flow": "Account Registration for Legal Entity"
+  },
+  {
+    "ID": 63,
+    "Image Filename": "mockup_063.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_063.png?raw=true",
+    "Caption": "Account creation form for an individual user with validation and terms acceptance",
+    "Process Flow": "Account Registration for Individual User"
+  },
+  {
+    "ID": 64,
+    "Image Filename": "mockup_064.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_064.png?raw=true",
+    "Caption": "Account creation form for an individual or company user with validation, error handling, and terms acceptance",
+    "Process Flow": "Account Registration with Validation for Individual or Company"
+  },
+  {
+    "ID": 65,
+    "Image Filename": "mockup_065.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_065.png?raw=true",
+    "Caption": "Phone number verification screen with options for receiving the verification code",
+    "Process Flow": "Phone Number Verification"
+  },
+  {
+    "ID": 66,
+    "Image Filename": "mockup_066.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_066.png?raw=true",
+    "Caption": "Verification code input screen for phone number verification",
+    "Process Flow": "Verification Code Entry"
+  },
+  {
+    "ID": 67,
+    "Image Filename": "mockup_067.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_067.png?raw=true",
+    "Caption": "Confirmation screen for successful phone number verification",
+    "Process Flow": "Phone Number Verification Success"
+  },
+  {
+    "ID": 68,
+    "Image Filename": "mockup_068.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_068.png?raw=true",
+    "Caption": "Verification code input screen for email address verification",
+    "Process Flow": "Email Verification Code Entry"
+  },
+  {
+    "ID": 69,
+    "Image Filename": "mockup_069.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_069.png?raw=true",
+    "Caption": "Verification code email for account confirmation",
+    "Process Flow": "Verification Code Delivery via Email"
+  },
+  {
+    "ID": 70,
+    "Image Filename": "mockup_070.png",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_070.png?raw=true",
+    "Caption": "Email verification code input screen with resend option",
+    "Process Flow": "Email Verification Code Entry and Resend"
+  },
+  {
+    "ID": 71,
+    "Image Filename": "mockup_071.jpg",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_071.jpg?raw=true",
+    "Caption": "Confirmation screen for successful email verification",
+    "Process Flow": "Email Verification Success"
+  }
+]

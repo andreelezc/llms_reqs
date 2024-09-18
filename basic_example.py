@@ -7,7 +7,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 # Initialize the OpenAI client with the API key
 client = OpenAI(api_key=api_key)
 
-url = "https://drive.google.com/file/d/1-mkSEruCH_yCmKkp99AqecMhTjvp-tjF/view?usp=drive_link"
+url = "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_001.png?raw=true"
 
 response = client.chat.completions.create(
   model="gpt-4o-mini",
@@ -19,7 +19,7 @@ response = client.chat.completions.create(
         {
           "type": "image_url",
           "image_url": {
-            "url": "https://drive.google.com/file/d/1-mkSEruCH_yCmKkp99AqecMhTjvp-tjF"
+            "url": url
           },
         },
       ],
