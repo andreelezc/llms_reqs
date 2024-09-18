@@ -2,7 +2,6 @@
   {
     "ID": 1,
     "Image Filename": "mockup_001.png",
-    "URL": "",
     "Caption": "Order Management Page for an E-commerce Platform Focused on the Agricultural Sector",
     "Process Flow": "Managing Orders and Interactions with Sellers",
     "FR #1": "The system must display a list of past purchases, including information such as the order date, product name, product type, product color, and total price.",
@@ -12,7 +11,8 @@
     "FR #5": "The system must indicate to users that a purchase has an open claim through a specific alert.",
     "FR #6": "The system must provide an option to rate the product after receiving it, indicated by a 'Rate product' button.",
     "FR #7": "Users must be able to repurchase the same product with a 'Comprar novamente' button if they wish to make another purchase of the same item.",
-    "FR #8": "For canceled orders, the system must display a 'Canceled' status and provide options for users to rate the vendor or repurchase the product."
+    "FR #8": "For canceled orders, the system must display a 'Canceled' status and provide options for users to rate the vendor or repurchase the product.", 
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_001.png?raw=true",
   },
   {
     "ID": 2,
@@ -21,10 +21,11 @@
     "Process Flow": "Filtering Orders by Status, Shipping, and Complaints",
     "FR #1": "The system must allow users to filter orders based on different statuses such as 'Received', 'Pending delivery', 'Cancelled by me', and 'Cancelled by seller'.",
     "FR #2": "The system should provide filtering options for the shipping type, including 'Shipping at my expense' and 'Free shipping'.",
-    "FR #3": "The system must provide filtering options for complaints related to orders, including 'Sem reclamações', 'Com reclamação aberta', and 'Com reclamação fechada'.",
+    "FR #3": "The system must provide filtering options for complaints related to orders, including 'Sem reclama\u00e7\u00f5es', 'Com reclama\u00e7\u00e3o aberta', and 'Com reclama\u00e7\u00e3o fechada'.",
     "FR #4": "The system must provide filtering options for complaints related to orders, including 'No complaints', 'With open complaints', and 'With closed complaints'.",
     "FR #5": "The system must provide an option to clear all selected filters using the 'Clear' button, resetting the filter criteria to default.",
-    "FR #6": "The system must display the currently selected filters at the top of the filter panel, allowing users to see which filters are active."
+    "FR #6": "The system must display the currently selected filters at the top of the filter panel, allowing users to see which filters are active.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_002.png?raw=true"
   },
   {
     "ID": 3,
@@ -34,7 +35,8 @@
     "FR #1": "The system must display the order details, including the order number, date, and product name.",
     "FR #2": "The system should prompt the user to confirm whether they have received the product with a question 'Have you received the product?' and provide two response options: Yes and No.",
     "FR #3": "If the user selects 'Yes', the system must provide a 'Confirm receipt' button to confirm receipt of the product and update the order status accordingly.",
-    "FR #4": "If the user selects 'No', the system must provide an option to 'Confirm Later', which will allow the user to postpone confirmation of receipt."
+    "FR #4": "If the user selects 'No', the system must provide an option to 'Confirm Later', which will allow the user to postpone confirmation of receipt.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_003.png?raw=true"
   },
   {
     "ID": 4,
@@ -45,7 +47,8 @@
     "FR #2": "The system must allow users to rate the seller's service by selecting one of three options: 'Good', 'Average' or 'Poor', represented by corresponding emoticons.",
     "FR #3": "The system must provide a text input field for users to add a comment about their experience with the seller, with a character limit of 300 characters.",
     "FR #4": "The system must allow users to submit their rating and comment by clicking the 'Confirm rating' button, which will save the rating and make it visible to others.",
-    "FR #5": "The system must provide an option to postpone the rating by selecting the 'Rate later' button, allowing users to rate the service at a later time."
+    "FR #5": "The system must provide an option to postpone the rating by selecting the 'Rate later' button, allowing users to rate the service at a later time.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_004.png?raw=true"
   },
   {
     "ID": 5,
@@ -57,16 +60,18 @@
     "FR #3": "The system must provide a text input field for users to add a comment about the product, with a character limit of 300 characters. This allows users to describe the product's characteristics, quality, etc.",
     "FR #4": "The system must provide a separate text input field where users can summarize their opinion in a short sentence, giving a title to their review, with a character limit of 100 characters.",
     "FR #5": "The system must allow users to submit their rating, comment, and summary by clicking the 'Confirm rating' button, which will save the rating and make it visible to others.",
-    "FR #6": "The system must provide an option to postpone the rating by selecting the 'Rate later' button, allowing users to rate the product at a later time."
+    "FR #6": "The system must provide an option to postpone the rating by selecting the 'Rate later' button, allowing users to rate the product at a later time.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_005.png?raw=true"
   },
-{
+  {
     "ID": 6,
     "Image Filename": "mockup_006.png",
     "Caption": "Feedback Confirmation Screen for an E-commerce Platform Focused on the Agricultural Sector",
     "Process Flow": "Confirming Submission of a Rating or Review",
     "FR #1": "The system must display a confirmation message to the user after they have submitted a rating or review, thanking them for their feedback and informing them that their opinion is valuable to other buyers.",
     "FR #2": "The system must provide a button labeled 'Return to [compra/reserva]' that allows the user to return to the previous order or reservation details page after confirming the submission of their feedback.",
-    "FR #3": "The system must ensure that the confirmation screen is only shown after a successful submission of a product or seller rating, and should not allow any further actions until the user acknowledges the confirmation by clicking the provided button."
+    "FR #3": "The system must ensure that the confirmation screen is only shown after a successful submission of a product or seller rating, and should not allow any further actions until the user acknowledges the confirmation by clicking the provided button.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_006.png?raw=true"
   },
   {
     "ID": 7,
@@ -79,7 +84,8 @@
     "FR #4": "The system must display loyalty points that can be earned with the purchase of each product, indicated as 'Earn 1250 AgroPontos' or similar.",
     "FR #5": "The system must provide a sorting option for users to sort the products by criteria such as 'Lowest Price', which should dynamically update the product list.",
     "FR #6": "Users must be able to favorite or save products for later by clicking the heart icon on each product card, which should change state to indicate the item has been saved.",
-    "FR #7": "The system must provide a button or link to view more filters ('Show filters') that users can apply to refine the product listing further."
+    "FR #7": "The system must provide a button or link to view more filters ('Show filters') that users can apply to refine the product listing further.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_007.png?raw=true"
   },
   {
     "ID": 8,
@@ -94,7 +100,8 @@
     "FR #6": "The system must provide a toggle button ('Free Shipping') for users to filter products that offer free shipping.",
     "FR #7": "Users must be able to view the currently selected filters at the top of the filter panel and remove individual filters by clicking the 'X' next to each filter.",
     "FR #8": "The system must provide an 'Apply' button to apply the selected filters to the product listings and a 'Close' button to close the filter panel without applying any changes.",
-    "FR #9": "The system must provide a 'Clear' button to clear all selected filters, resetting the filter criteria to default."
+    "FR #9": "The system must provide a 'Clear' button to clear all selected filters, resetting the filter criteria to default.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_008.png?raw=true"
   },
   {
     "ID": 9,
@@ -108,7 +115,8 @@
     "FR #5": "The system must indicate the availability of financing for products with a 'Financing available' label for applicable items.",
     "FR #6": "The system must display loyalty points that can be earned with the purchase of each product, indicated as 'Earn 1250 AgroPontos' or similar.",
     "FR #7": "Users must be able to favorite or save products for later by clicking the heart icon on each product card, which should change state to indicate the item has been saved.",
-    "FR #8": "The system must provide a button or link to view more filters ('Show filters') that users can apply to refine the product listing further."
+    "FR #8": "The system must provide a button or link to view more filters ('Show filters') that users can apply to refine the product listing further.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_009.png?raw=true"
   },
   {
     "ID": 10,
@@ -123,9 +131,10 @@
     "FR #6": "The system must provide price range filters with predefined ranges and a custom range option ('Other') where users can enter minimum and maximum price values.",
     "FR #7": "Users must be able to see and remove the currently selected filters at the top of the filter panel, with each filter having a close ('X') button to deselect it.",
     "FR #8": "The system must include an 'Apply' button for users to apply the selected filters and dynamically update the product listing, as well as a 'Fechar' button to exit the filter panel without applying changes.",
-    "FR #9": "The system must provide a 'Clear' button that resets all selected filters to default, removing any applied filters and showing all products in the listing."
+    "FR #9": "The system must provide a 'Clear' button that resets all selected filters to default, removing any applied filters and showing all products in the listing.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_010.png?raw=true"
   },
-{
+  {
     "ID": 11,
     "Image Filename": "mockup_011.png",
     "Caption": "Product Offer Filter Options Screen for an E-commerce Platform Focused on the Agricultural Sector",
@@ -138,7 +147,8 @@
     "FR #6": "The system must provide a price filter with predefined ranges and an 'Other' option for users to specify a custom price range using minimum and maximum values.",
     "FR #7": "The system must display the currently selected filters at the top of the filter panel and allow users to remove individual filters by clicking the 'X' next to each filter.",
     "FR #8": "The system must provide an 'Apply' button to apply the selected filters and dynamically update the product offers displayed, and a 'Close' button to exit the filter panel without making changes.",
-    "FR #9": "The system must have a 'Clear' button to clear all selected filters, resetting the filter criteria to default."
+    "FR #9": "The system must have a 'Clear' button to clear all selected filters, resetting the filter criteria to default.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_011.png?raw=true"
   },
   {
     "ID": 12,
@@ -153,7 +163,8 @@
     "FR #6": "The system must provide a price range filter with predefined ranges and an 'Other' option for users to specify a custom price range.",
     "FR #7": "Users must be able to view and manage the currently selected filters at the top of the filter panel, with each filter having a close ('X') button for removal.",
     "FR #8": "The system must provide an 'Apply' button to apply the selected filters and dynamically update the product offers displayed, as well as a 'Close' button to exit the filter panel without applying any changes.",
-    "FR #9": "The system must include a 'Clear' button to reset all selected filters, returning the product listing to its default state without any applied filters."
+    "FR #9": "The system must include a 'Clear' button to reset all selected filters, returning the product listing to its default state without any applied filters.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_012.png?raw=true"
   },
   {
     "ID": 13,
@@ -168,7 +179,8 @@
     "FR #6": "The system must provide a price range filter with predefined ranges and an 'Other' option for users to specify a custom price range by entering minimum and maximum values.",
     "FR #7": "Users must be able to view and remove the currently selected filters at the top of the filter panel, with each filter having a close ('X') button to deselect it.",
     "FR #8": "The system must provide an 'Apply' button to apply the selected filters and dynamically update the product offers displayed, as well as a 'Close' button to close the filter panel without applying changes.",
-    "FR #9": "The system must include a 'Clear' button to reset all selected filters, returning the product listing to its default state without any applied filters."
+    "FR #9": "The system must include a 'Clear' button to reset all selected filters, returning the product listing to its default state without any applied filters.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_013.png?raw=true"
   },
   {
     "ID": 14,
@@ -181,7 +193,8 @@
     "FR #4": "The system must display the number of loyalty points that can be earned with the purchase of each product.",
     "FR #5": "The system must provide sorting options for users to sort product offers by criteria such as 'Lowest Price' or 'Highest Price', which should dynamically update the product list.",
     "FR #6": "Users must be able to add products to their favorites or wish list by clicking the heart icon on each product card, which should change state to indicate the product has been saved.",
-    "FR #7": "The system must provide a button or link ('Show filters') to allow users to access additional filtering options to refine the product offers displayed."
+    "FR #7": "The system must provide a button or link ('Show filters') to allow users to access additional filtering options to refine the product offers displayed.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_014.png?raw=true"
   },
   {
     "ID": 15,
@@ -192,7 +205,8 @@
     "FR #2": "The system must display an informational message to guide the user to provide as many details as possible for an accurate quotation and inform them that a quotation request is necessary for enabling the purchase.",
     "FR #3": "The system must provide a 'Request quote' button that allows users to submit their quotation request to the seller. Upon clicking this button, the request should be sent to the seller for review.",
     "FR #4": "The system must provide a 'Cancel' button that allows users to cancel the quotation request process and close the dialog without submitting any information.",
-    "FR #5": "Upon submission of the quotation request, the system must validate the input to ensure the description is not empty and provide appropriate feedback if the field is incomplete."
+    "FR #5": "Upon submission of the quotation request, the system must validate the input to ensure the description is not empty and provide appropriate feedback if the field is incomplete.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_015.png?raw=true"
   },
   {
     "ID": 16,
@@ -201,18 +215,20 @@
     "Process Flow": "Confirming Successful Submission of a Content Report",
     "FR #1": "The system must display a confirmation message ('Complaint made successfully!') after a user has successfully submitted a report, informing them that their contribution helps make the platform more secure.",
     "FR #2": "The system must provide a 'Cancel' button for users to close the confirmation dialog and return to the previous screen after acknowledging the success message.",
-    "FR #3": "The confirmation screen must be shown only after a report is successfully submitted, and no further actions should be available until the user acknowledges the message by clicking the 'Cancel' button."
+    "FR #3": "The confirmation screen must be shown only after a report is successfully submitted, and no further actions should be available until the user acknowledges the message by clicking the 'Cancel' button.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_016.png?raw=true"
   },
-{
+  {
     "ID": 17,
     "Image Filename": "mockup_017.png",
     "Caption": "Content Reporting Screen for an E-commerce Platform Focused on the Agricultural Sector",
     "Process Flow": "Submitting a Content Report",
     "FR #1": "The system must provide multiple predefined options for users to select the reason for reporting content, including 'Spam', 'Explicit Content', 'Abusive Content', 'False Information', and 'Intellectual Property Violation'.",
-    "FR #2": "The system must provide an 'Other' option that allows users to specify a custom reason for reporting. When selected, a text input field labeled 'Descripción del motivo' must appear for the user to enter additional details, with a character limit of 100 characters.",
+    "FR #2": "The system must provide an 'Other' option that allows users to specify a custom reason for reporting. When selected, a text input field labeled 'Descripci\u00f3n del motivo' must appear for the user to enter additional details, with a character limit of 100 characters.",
     "FR #3": "The system must provide a 'Report' button to allow users to submit the report after selecting a reason and, if applicable, entering additional information.",
     "FR #4": "The system must provide a 'Cancel' button that allows users to cancel the reporting process and close the dialog without submitting any information.",
-    "FR #5": "Upon submission of the report, the system must validate that a reason is selected and, if the 'Other' option is chosen, that the description field is not empty, providing appropriate feedback if these conditions are not met."
+    "FR #5": "Upon submission of the report, the system must validate that a reason is selected and, if the 'Other' option is chosen, that the description field is not empty, providing appropriate feedback if these conditions are not met.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_017.png?raw=true"
   },
   {
     "ID": 18,
@@ -223,7 +239,8 @@
     "FR #2": "The system must provide an 'Other' option that allows users to specify a custom reason for reporting. When selected, a text input field labeled 'Description of the reason' must appear for the user to enter additional details, with a character limit of 100 characters.",
     "FR #3": "The system must provide a 'Report' button to allow users to submit the report after selecting a reason and, if applicable, entering additional information.",
     "FR #4": "The system must provide a 'Cancel' button that allows users to cancel the reporting process and close the dialog without submitting any information.",
-    "FR #5": "Upon submission of the report, the system must validate that a reason is selected and, if the 'Other' option is chosen, that the description field is not empty, providing appropriate feedback if these conditions are not met."
+    "FR #5": "Upon submission of the report, the system must validate that a reason is selected and, if the 'Other' option is chosen, that the description field is not empty, providing appropriate feedback if these conditions are not met.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_018.png?raw=true"
   },
   {
     "ID": 19,
@@ -232,7 +249,8 @@
     "Process Flow": "Requesting Reactivation of a Quotation",
     "FR #1": "The system must display a confirmation message after a user successfully requests the reactivation of a quotation, informing them that they will be notified if the seller accepts the reactivation request.",
     "FR #2": "The system must provide a button for users to close the confirmation dialog and return to the previous screen after acknowledging the success message.",
-    "FR #3": "The confirmation screen must be shown only after a reactivation request is successfully submitted, and no further actions should be available until the user acknowledges the message by clicking the 'Close' button."
+    "FR #3": "The confirmation screen must be shown only after a reactivation request is successfully submitted, and no further actions should be available until the user acknowledges the message by clicking the 'Close' button.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_019.png?raw=true"
   },
   {
     "ID": 20,
@@ -242,7 +260,8 @@
     "FR #1": "The system must display the details of a received quotation, including the date of receipt and the product name.",
     "FR #2": "The system must provide an option for the user to request the reactivation of a received quotation.",
     "FR #3": "The system must provide two options for the user: 'Yes' to confirm the reactivation request and 'No' to decline it.",
-    "FR #4": "The system must provide an option to cancel the reactivation request process."
+    "FR #4": "The system must provide an option to cancel the reactivation request process.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_020.png?raw=true"
   },
   {
     "ID": 21,
@@ -254,7 +273,8 @@
     "FR #3": "The system must provide an option to request the reactivation of an expired quotation.",
     "FR #4": "The system must indicate when a reactivation request has already been made for a quotation.",
     "FR #5": "The system must provide a button for quotations that have been purchased, allowing users to view the related purchase details.",
-    "FR #6": "The system must allow users to send messages related to a specific quotation."
+    "FR #6": "The system must allow users to send messages related to a specific quotation.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_021.png?raw=true"
   },
   {
     "ID": 22,
@@ -264,7 +284,8 @@
     "FR #1": "The system must display a list of pending quotations, including details such as product name, color, price, quantity, and status (e.g., shipping type).",
     "FR #2": "The system must allow users to view more details about a pending quotation, including the option to send messages related to the quotation.",
     "FR #3": "The system must show the date when the quotation was received in the 'Pendings' section.",
-    "FR #4": "The system must allow users to expand and collapse the 'Pendings' and 'Received' sections to view or hide the respective lists of quotations."
+    "FR #4": "The system must allow users to expand and collapse the 'Pendings' and 'Received' sections to view or hide the respective lists of quotations.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_022.png?raw=true"
   },
   {
     "ID": 23,
@@ -277,7 +298,8 @@
     "FR #4": "The system must provide a 'Request reactivation' button for users to request the reactivation of an expired quotation.",
     "FR #5": "The system must indicate when a reactivation request has already been made for a quotation by showing 'Reactivation requested'.",
     "FR #6": "The system must provide a button for users to view details of a purchased quotation.",
-    "FR #7": "The system must allow users to send messages related to a specific quotation for both pending and received quotations."
+    "FR #7": "The system must allow users to send messages related to a specific quotation for both pending and received quotations.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_023.png?raw=true"
   },
   {
     "ID": 24,
@@ -287,7 +309,8 @@
     "FR #1": "The system must display a message indicating that there are no pending quotations when there are no quotations in the 'Pending quotations' section.",
     "FR #2": "The system must provide a button in the 'Pending quotations' section to allow users to view and select products to request a quotation.",
     "FR #3": "The system must display a message indicating that there are no received quotations when there are no quotations in the 'Received quotations' section.",
-    "FR #4": "The system must provide a button in the 'Received quotations' section to allow users to view and select products to request a quotation."
+    "FR #4": "The system must provide a button in the 'Received quotations' section to allow users to view and select products to request a quotation.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_024.png?raw=true"
   },
   {
     "ID": 25,
@@ -299,7 +322,8 @@
     "FR #3": "The system must provide an option to sort quotations by the most recent date.",
     "FR #4": "The system must provide an option to sort quotations by the oldest date.",
     "FR #5": "The system must provide an option to sort quotations by the highest price.",
-    "FR #6": "The system must provide an option to sort quotations by the lowest price."
+    "FR #6": "The system must provide an option to sort quotations by the lowest price.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_025.png?raw=true"
   },
   {
     "ID": 26,
@@ -309,7 +333,8 @@
     "FR #1": "The system must display a list of messages exchanged between the buyer and the seller related to a specific publication, showing the message content, date, and customer name.",
     "FR #2": "The system must allow users to expand and collapse each message to view full details or hide them for a cleaner interface.",
     "FR #3": "The system must differentiate between messages sent by the buyer and responses from the seller, using a distinct format or indentation.",
-    "FR #4": "The system should display the publication name and type it at the top of the screen to provide context for the conversations associated with that publication."
+    "FR #4": "The system should display the publication name and type it at the top of the screen to provide context for the conversations associated with that publication.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_026.png?raw=true"
   },
   {
     "ID": 27,
@@ -322,7 +347,8 @@
     "FR #4": "The system must provide options to filter responses to view recent responses or unanswered questions.",
     "FR #5": "The system must provide an option to expand or collapse each message thread to view all messages in a conversation.",
     "FR #6": "The system must offer a 'Delete' option to delete specific messages or threads from the list.",
-    "FR #7": "The system must allow users to report inappropriate or unwanted content through a 'Report' option."
+    "FR #7": "The system must allow users to report inappropriate or unwanted content through a 'Report' option.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_027.png?raw=true"
   },
   {
     "ID": 28,
@@ -334,7 +360,8 @@
     "FR #3": "The system must provide options to sort by 'Most recent questions' and 'Oldest questions'.",
     "FR #4": "The system must allow users to ask new questions related to a specific product.",
     "FR #5": "The system must display a list of questions and responses related to a specific product, with each entry showing the message content, date, and sender or responder information.",
-    "FR #6": "The system must provide a 'Report' option to report inappropriate or unwanted content in the displayed messages."
+    "FR #6": "The system must provide a 'Report' option to report inappropriate or unwanted content in the displayed messages.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_028.png?raw=true"
   },
   {
     "ID": 29,
@@ -347,9 +374,10 @@
     "FR #4": "The system must provide a 'Report' option to report inappropriate or unwanted content for each message in the list.",
     "FR #5": "The system must allow users to expand or collapse each message thread to view full details or hide them for a more concise view.",
     "FR #6": "The system must offer a sorting dropdown menu to filter responses by criteria like 'Most recent questions'.",
-    "FR #7": "The system must provide a button to remove selected messages or threads from the list."
+    "FR #7": "The system must provide a button to remove selected messages or threads from the list.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_029.png?raw=true"
   },
-{
+  {
     "ID": 30,
     "Image Filename": "mockup_030.png",
     "Caption": "Screen for managing questions and responses related to product with selection and delete options",
@@ -360,7 +388,8 @@
     "FR #4": "The system must provide a 'Report' option to report inappropriate or unwanted content for each individual message.",
     "FR #5": "The system must provide checkboxes next to each message thread to allow users to select multiple messages for bulk actions.",
     "FR #6": "The system must provide a 'Delete' button to delete selected messages or threads from the list.",
-    "FR #7": "The system must allow users to expand or collapse each message thread to view or hide detailed responses."
+    "FR #7": "The system must allow users to expand or collapse each message thread to view or hide detailed responses.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_030.png?raw=true"
   },
   {
     "ID": 31,
@@ -372,7 +401,8 @@
     "FR #3": "The system must provide a 'Delete' button to delete selected questions from the list.",
     "FR #4": "The system must allow users to ask new questions about a product.",
     "FR #5": "The system must display the product's price, name, and additional details next to each corresponding question in the list.",
-    "FR #6": "The system must allow users to expand or collapse each question thread to view or hide detailed responses."
+    "FR #6": "The system must allow users to expand or collapse each question thread to view or hide detailed responses.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_031.png?raw=true"
   },
   {
     "ID": 32,
@@ -384,7 +414,8 @@
     "FR #3": "The system must provide a 'Delete' button to delete selected unanswered questions from the list.",
     "FR #4": "The system must allow users to ask new questions related to a product or quotation.",
     "FR #5": "The system must display the product's price, name, and additional details next to each corresponding unanswered question.",
-    "FR #6": "The system must provide a sorting dropdown menu to filter unanswered questions by criteria such as 'Most recent questions'."
+    "FR #6": "The system must provide a sorting dropdown menu to filter unanswered questions by criteria such as 'Most recent questions'.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_032.png?raw=true"
   },
   {
     "ID": 33,
@@ -393,7 +424,8 @@
     "Process Flow": "Empty State Management for Answered Questions",
     "FR #1": "The system must display a message indicating that there are no answered questions when the user has not received any responses.",
     "FR #2": "The system must provide a 'See products' button that redirects the user to a list of products for which they can ask questions.",
-    "FR #3": "The system must visually represent the empty state with an icon or image to communicate that there are no answered questions available."
+    "FR #3": "The system must visually represent the empty state with an icon or image to communicate that there are no answered questions available.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_033.png?raw=true"
   },
   {
     "ID": 34,
@@ -402,7 +434,8 @@
     "Process Flow": "Empty State Management for Unanswered Questions",
     "FR #1": "The system must display a message indicating that the user has not asked any questions when there are no unanswered questions available.",
     "FR #2": "The system must provide a 'See products' button that redirects the user to a list of products for which they can ask questions.",
-    "FR #3": "The system must visually represent the empty state with an icon or image to communicate that there are no unanswered questions."
+    "FR #3": "The system must visually represent the empty state with an icon or image to communicate that there are no unanswered questions.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_034.png?raw=true"
   },
   {
     "ID": 35,
@@ -414,7 +447,8 @@
     "FR #3": "The system must provide access to user account management options like 'Notifications', 'Settings', 'My Favorites', 'Purchases, Reservations and Budgets', 'Questions and Answers', 'My Data and Addresses', and 'Browsing History'.",
     "FR #4": "The system must display notification indicators next to menu items that require user attention, such as 'Notifications' and 'Questions and Answers'.",
     "FR #5": "The system must provide links to other important sections like 'Security', 'Privacy', 'Help' and 'Terms & Conditions'.",
-    "FR #6": "The system must allow users to log out by providing an 'Exit' option in the sidebar menu."
+    "FR #6": "The system must allow users to log out by providing an 'Exit' option in the sidebar menu.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_035.png?raw=true"
   },
   {
     "ID": 36,
@@ -422,16 +456,18 @@
     "Caption": "Category selection screen to search for a specific category of products",
     "Process Flow": "Search for products by category",
     "FR #1": "The system must display a list of the main category and its subcategories to filter the search results with the category parameter.",
-    "FR #2": "The system must allow users to navigate to a specific category by selecting one of the options."
+    "FR #2": "The system must allow users to navigate to a specific category by selecting one of the options.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_036.png?raw=true"
   },
-{
+  {
     "ID": 38,
     "Image Filename": "mockup_038.png",
     "Caption": "Category selection screen for different product types in agriculture",
     "Process Flow": "Product Category Selection for Agriculture",
     "FR #1": "The system must display a list of product categories related to agriculture.",
     "FR #2": "The system must allow users to navigate to a specific category by selecting one of the options presented.",
-    "FR #3": "The system must provide an icon representing each category to help users visually identify the type of product."
+    "FR #3": "The system must provide an icon representing each category to help users visually identify the type of product.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_038.png?raw=true"
   },
   {
     "ID": 40,
@@ -443,7 +479,8 @@
     "FR #3": "The system must offer access to user account management features, such as 'Notifications', 'Settings', 'My Favorites', 'Purchases, Reservations and Budgets', 'Questions and Answers', 'My Data and Addresses', and 'Browsing History'.",
     "FR #4": "The system must display notification indicators next to menu items requiring user attention, such as 'Notifications' and 'Questions and Answers'.",
     "FR #5": "The system must include links to other essential sections like 'Security', 'Privacy', 'Help' and 'Terms & Conditions'.",
-    "FR #6": "The system must allow users to log out using the 'Exit' button in the sidebar menu."
+    "FR #6": "The system must allow users to log out using the 'Exit' button in the sidebar menu.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_040.png?raw=true"
   },
   {
     "ID": 41,
@@ -453,7 +490,8 @@
     "FR #1": "The system must display a message indicating that no messages have been exchanged yet when the conversation is empty.",
     "FR #2": "The system must provide an input field for the user to type a new message.",
     "FR #3": "The system must provide a 'Send' button (indicated by an arrow icon) to send the typed message to the recipient.",
-    "FR #4": "The system must display the product name at the top of the screen to provide context for the conversation."
+    "FR #4": "The system must display the product name at the top of the screen to provide context for the conversation.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_041.png?raw=true"
   },
   {
     "ID": 42,
@@ -464,7 +502,8 @@
     "FR #2": "The system must differentiate messages from the buyer and the seller using distinct visual styles or alignment to make the conversation clear.",
     "FR #3": "The system must provide an input field for users to type new messages at the bottom of the screen.",
     "FR #4": "The system must include a 'Send' button (indicated by an arrow icon) that allows users to send their typed message.",
-    "FR #5": "The system must display the product name at the top of the screen to provide context for the conversation."
+    "FR #5": "The system must display the product name at the top of the screen to provide context for the conversation.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_042.png?raw=true"
   },
   {
     "ID": 43,
@@ -474,7 +513,8 @@
     "FR #1": "The system must display a message indicating that no purchases have been made when the user's purchase history is empty.",
     "FR #2": "The system must provide a 'See products' button that allows users to browse available products to make a purchase.",
     "FR #3": "The system must provide an option to enable users to filter products when viewing them.",
-    "FR #4": "The system must provide a dropdown menu for sorting products or purchases by criteria such as most recent."
+    "FR #4": "The system must provide a dropdown menu for sorting products or purchases by criteria such as most recent.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_043.png?raw=true"
   },
   {
     "ID": 44,
@@ -485,7 +525,8 @@
     "FR #2": "The system must display an overview of the seller's ratings, categorizing them as 'Good', 'Average' or 'Poor', along with the number of each rating type received.",
     "FR #3": "The system must provide a list of detailed reviews, including the rating, review text, reviewer's name, and date of the review.",
     "FR #4": "The system must provide a filter dropdown menu allowing users to filter reviews by 'All', 'Good', 'Average' or 'Poor'.",
-    "FR #5": "The system must dynamically update the list of reviews displayed based on the selected filter option."
+    "FR #5": "The system must dynamically update the list of reviews displayed based on the selected filter option.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_044.png?raw=true"
   },
   {
     "ID": 45,
@@ -496,7 +537,8 @@
     "FR #2": "The system must display a list of detailed product reviews, including the rating (e.g., 5 stars), review text, and the reviewer's feedback.",
     "FR #3": "The system must provide a filter dropdown menu allowing users to filter reviews by 'All', 'Positive', or 'Negative'.",
     "FR #4": "The system must dynamically update the list of reviews displayed based on the selected filter option.",
-    "FR #5": "The system must show the number of reviews for each star rating to provide users with an overview of the distribution of ratings."
+    "FR #5": "The system must show the number of reviews for each star rating to provide users with an overview of the distribution of ratings.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_045.png?raw=true"
   },
   {
     "ID": 46,
@@ -508,7 +550,8 @@
     "FR #3": "The system must provide a sorting dropdown menu to allow users to sort products by criteria such as lowest price, highest price, and other options.",
     "FR #4": "The system must display the Official Store's name at the top of the screen to provide context for the product listings.",
     "FR #5": "The system must show visual indicators like percentage discounts or promotional badges to highlight special offers on specific products.",
-    "FR #6": "The system must indicate the number of 'AgroPontos' available for each product purchase, enhancing user engagement through a loyalty program."
+    "FR #6": "The system must indicate the number of 'AgroPontos' available for each product purchase, enhancing user engagement through a loyalty program.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_046.png?raw=true"
   },
   {
     "ID": 47,
@@ -521,7 +564,8 @@
     "FR #4": "The system must display the seller's name at the top of the screen to provide context for the product listings.",
     "FR #5": "The system must display visual indicators such as percentage discounts or promotional badges to highlight special offers on products.",
     "FR #6": "The system must show financing availability and the number of 'AgroPontos' that can be earned with each product purchase.",
-    "FR #7": "The system must support a 'heart' icon feature that allows users to mark products as favorites."
+    "FR #7": "The system must support a 'heart' icon feature that allows users to mark products as favorites.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_047.png?raw=true"
   },
   {
     "ID": 48,
@@ -532,7 +576,8 @@
     "FR #2": "The system must provide a 'Delete' option to allow users to remove a product from their favorites list. The 'Delete' option should be accessible via a swipe or other action on the product card.",
     "FR #3": "The system must display financing availability and the number of 'AgroPontos' that can be earned with each product purchase.",
     "FR #4": "The system must display a 'heart' icon on each product card to indicate that the product is marked as a favorite, and users can toggle this to remove it from favorites.",
-    "FR #5": "The system must provide a dynamic interface that updates the favorites list in real-time when a product is removed."
+    "FR #5": "The system must provide a dynamic interface that updates the favorites list in real-time when a product is removed.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_048.png?raw=true"
   },
   {
     "ID": 49,
@@ -543,7 +588,8 @@
     "FR #2": "The system must provide a search input field to allow users to search for specific official stores by name.",
     "FR #3": "The system must dynamically update the list of stores displayed based on the user's search query.",
     "FR #4": "The system must allow users to select a store from the list to view more details or browse products from that store.",
-    "FR #5": "The system must support the display of multiple categories of stores, allowing users to navigate through different types of official stores."
+    "FR #5": "The system must support the display of multiple categories of stores, allowing users to navigate through different types of official stores.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_049.png?raw=true"
   },
   {
     "ID": 50,
@@ -558,7 +604,8 @@
     "FR #6": "The system must include sections for searching by crop and animal with selectable options.",
     "FR #7": "The system must provide a category navigation section that allows users to navigate through various product categories.",
     "FR #8": "The system must provide a search bar at the top of the screen for users to search for specific products or categories.",
-    "FR #9": "The system must provide options for users to filter and sort products displayed on the homepage, such as 'Show filters' and sorting options like 'Lowest price'."
+    "FR #9": "The system must provide options for users to filter and sort products displayed on the homepage, such as 'Show filters' and sorting options like 'Lowest price'.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_050.png?raw=true"
   },
   {
     "ID": 51,
@@ -568,7 +615,8 @@
     "FR #1": "The system must provide an option to allow users to restrict the search results to a specific seller's products.",
     "FR #2": "The system must display a list of recent search queries, allowing users to quickly access their previous searches by selecting from the list.",
     "FR #3": "The system must provide an icon next to each recent search query to allow users to re-run the search or perform an action related to it.",
-    "FR #4": "The system must dynamically update the search results based on the user's input in the search bar or the selected filter option."
+    "FR #4": "The system must dynamically update the search results based on the user's input in the search bar or the selected filter option.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_051.png?raw=true"
   },
   {
     "ID": 52,
@@ -579,7 +627,8 @@
     "FR #2": "The system must display a list of suggested search queries related to the user's input, allowing users to refine or expand their search.",
     "FR #3": "The system must display an icon next to each suggested search query to indicate that selecting the suggestion will perform a new search.",
     "FR #4": "The system must provide an icon next to each suggestion that allows users to navigate directly to a related search or category page.",
-    "FR #5": "The system must dynamically update the list of suggested search queries as the user types in the search input field."
+    "FR #5": "The system must dynamically update the list of suggested search queries as the user types in the search input field.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_052.png?raw=true"
   },
   {
     "ID": 53,
@@ -590,7 +639,8 @@
     "FR #2": "The system must display a list of recent search queries below the search bar, allowing users to quickly access previously searched terms.",
     "FR #3": "The system must provide a refresh or repeat icon next to each recent search query, allowing users to re-run the search with a single tap.",
     "FR #4": "The system must display an arrow icon next to each recent search query to allow users to navigate directly to a related product or category page.",
-    "FR #5": "The system must dynamically update the search results and recent search history based on user interactions with the search input field and query list."
+    "FR #5": "The system must dynamically update the search results and recent search history based on user interactions with the search input field and query list.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_053.png?raw=true"
   },
   {
     "ID": 54,
@@ -600,7 +650,8 @@
     "FR #1": "The system must provide a search input field to allow users to search for specific official stores by name.",
     "FR #2": "The system must display a message indicating that no official store was found for the entered search term.",
     "FR #3": "The system must allow users to clear the current search query and return to the default state for entering a new search term.",
-    "FR #4": "The system must dynamically update the search results as the user modifies the search query in the input field."
+    "FR #4": "The system must dynamically update the search results as the user modifies the search query in the input field.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_054.png?raw=true"
   },
   {
     "ID": 55,
@@ -609,7 +660,8 @@
     "Process Flow": "Notification Management with Empty State Handling",
     "FR #1": "The system must display a message indicating that there are no notifications available when the user's notification list is empty.",
     "FR #2": "The system must provide a 'See products' button that redirects users to a list of products, encouraging them to browse items on the platform.",
-    "FR #3": "The system must dynamically update the notification list and display new notifications when they become available."
+    "FR #3": "The system must dynamically update the notification list and display new notifications when they become available.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_055.png?raw=true"
   },
   {
     "ID": 56,
@@ -621,7 +673,8 @@
     "FR #3": "The system must provide a 'Sign Up' button that redirects users to a new account registration page if they do not have an account.",
     "FR #4": "The system must provide a link that allows users to recover their password if they have forgotten it.",
     "FR #5": "The system must provide a 'Cancel' button that allows users to exit the login screen without taking any action.",
-    "FR #6": "The system must provide an option to show or hide the password input for better user control over visibility."
+    "FR #6": "The system must provide an option to show or hide the password input for better user control over visibility.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_056.png?raw=true"
   },
   {
     "ID": 57,
@@ -633,7 +686,8 @@
     "FR #3": "The system must validate the email and password entered by the user and display an error message if the credentials are incorrect.",
     "FR #4": "The system must provide a link to allow users to initiate the password recovery process.",
     "FR #5": "The system must provide an option to show or hide the password input for better user control over visibility.",
-    "FR #6": "The system must maintain the user's input in the email field even after a failed login attempt to prevent re-entry."
+    "FR #6": "The system must maintain the user's input in the email field even after a failed login attempt to prevent re-entry.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_057.png?raw=true"
   },
   {
     "ID": 58,
@@ -645,7 +699,8 @@
     "FR #3": "The system must provide a 'My Data and Addresses' option that allows users to manage their personal data and addresses.",
     "FR #4": "The system must provide a 'Privacy' option that allows users to control and manage their privacy settings.",
     "FR #5": "The system must provide a 'Security' option that allows users to manage their account security settings and maintain the security of their account.",
-    "FR #6": "The system must display each option as a navigable link that redirects to the respective management screen for data, privacy, and security settings."
+    "FR #6": "The system must display each option as a navigable link that redirects to the respective management screen for data, privacy, and security settings.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_058.png?raw=true"
   },
   {
     "ID": 59,
@@ -656,7 +711,8 @@
     "FR #2": "The system must display a list of promotional offers associated with AgroCarteira, including the business name and the discount details.",
     "FR #3": "The system must provide a button that allows users to download the app for enhanced features or benefits.",
     "FR #4": "The system must provide a button that allows users to dismiss the prompt to download the app and continue browsing without taking action.",
-    "FR #5": "The system must dynamically update the promotional offers based on the user's location or other relevant criteria."
+    "FR #5": "The system must dynamically update the promotional offers based on the user's location or other relevant criteria.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_059.png?raw=true"
   },
   {
     "ID": 60,
@@ -670,7 +726,8 @@
     "FR #5": "The system must provide radio buttons for users to indicate if they are a 'Politically exposed person' with options 'Yes, I am' and 'No, I'm not'.",
     "FR #6": "The system must provide a checkbox for users to accept the 'Terms & Conditions' and authorize the use of their data according to the 'Privacy Policy'.",
     "FR #7": "The system must provide an 'Accept' button to submit the form and process the provided information.",
-    "FR #8": "The system must validate the input fields to ensure all required information is provided and in the correct format before allowing submission."
+    "FR #8": "The system must validate the input fields to ensure all required information is provided and in the correct format before allowing submission.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_060.png?raw=true"
   },
   {
     "ID": 61,
@@ -684,7 +741,8 @@
     "FR #5": "The system must provide radio buttons for users to indicate if they are a 'Politically exposed person' with options 'Yes, I am' and 'No, I'm not'.",
     "FR #6": "The system must provide a checkbox for users to accept the 'Terms & Conditions' and authorize the use of their data according to the 'Privacy Policy'.",
     "FR #7": "The system must provide an 'Accept' button to submit the form and process the provided information.",
-    "FR #8": "The system must validate the input fields to ensure all required information is provided and in the correct format before allowing submission."
+    "FR #8": "The system must validate the input fields to ensure all required information is provided and in the correct format before allowing submission.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_061.jpg?raw=true"
   },
   {
     "ID": 62,
@@ -698,7 +756,8 @@
     "FR #5": "The system must display an error message if the password does not meet the required complexity rules.",
     "FR #6": "The system must provide checkboxes for users to accept the 'Terms & Conditions' and authorize data use according to the 'Privacy Policy'.",
     "FR #7": "The system must provide a checkbox for users to declare under penalty of law that they have the authority to represent the company.",
-    "FR #8": "The system must provide a 'Create account' button to submit the form and create the account after all fields are validated and terms are accepted."
+    "FR #8": "The system must provide a 'Create account' button to submit the form and create the account after all fields are validated and terms are accepted.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_062.png?raw=true"
   },
   {
     "ID": 63,
@@ -710,7 +769,8 @@
     "FR #3": "The system must validate the 'CPF', email, and phone number input fields to ensure they are in the correct format and match the confirmation fields where applicable.",
     "FR #4": "The system must provide a password input field with an option to show or hide the password and must enforce password complexity rules.",
     "FR #5": "The system must display an error message if the password does not meet the required complexity rules.",
-    "FR #6": "The system must provide a checkbox for users to accept the 'Terms & Conditions' and authorize data use according to the 'Privacy Policy'."
+    "FR #6": "The system must provide a checkbox for users to accept the 'Terms & Conditions' and authorize data use according to the 'Privacy Policy'.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_063.png?raw=true"
   },
   {
     "ID": 64,
@@ -720,7 +780,8 @@
     "FR #1": "The system must provide a dropdown menu for selecting the type of account with options like 'Company' or 'Individual User'.",
     "FR #2": "The system must display an error message if the password does not meet the required complexity rules.",
     "FR #3": "The system must provide a checkbox for users to accept the 'Terms & Conditions' and authorize data use according to the 'Privacy Policy'.",
-    "FR #4": "The system must provide a 'Create account' button to submit the form and create the account after all fields are validated and terms are accepted."
+    "FR #4": "The system must provide a 'Create account' button to submit the form and create the account after all fields are validated and terms are accepted.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_064.png?raw=true"
   },
   {
     "ID": 65,
@@ -731,7 +792,8 @@
     "FR #2": "The system must provide three options for receiving a verification code: 'Text Message', 'WhatsApp', and 'Phone Call'.",
     "FR #3": "The system must display the partially masked phone number (e.g., '+55 ** ***** 1012') next to each option to confirm the number to which the verification code will be sent.",
     "FR #4": "The system must allow users to select their preferred method for receiving the verification code by clicking on one of the options.",
-    "FR #5": "The system must handle user selection and initiate the chosen method (e.g., sending a text, WhatsApp message, or making a call) to deliver the verification code."
+    "FR #5": "The system must handle user selection and initiate the chosen method (e.g., sending a text, WhatsApp message, or making a call) to deliver the verification code.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_065.png?raw=true"
   },
   {
     "ID": 66,
@@ -743,7 +805,8 @@
     "FR #3": "The system must enable the 'Confirm Code' button only after all six digits have been entered.",
     "FR #4": "The system must provide a message indicating the validity period of the verification code.",
     "FR #5": "The system must validate the entered code and display an error message if the code is incorrect or has expired.",
-    "FR #6": "The system must handle the timeout of the code validity period and prompt the user to request a new code if needed."
+    "FR #6": "The system must handle the timeout of the code validity period and prompt the user to request a new code if needed.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_066.png?raw=true"
   },
   {
     "ID": 67,
@@ -752,7 +815,8 @@
     "Process Flow": "Phone Number Verification Success",
     "FR #1": "The system must display a success message to inform the user that their phone number has been successfully verified.",
     "FR #2": "The system must display the verified phone number to confirm which number was verified.",
-    "FR #3": "The system must provide information about the future use of the verified phone number for two-step verification to enhance account security."
+    "FR #3": "The system must provide information about the future use of the verified phone number for two-step verification to enhance account security.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_067.png?raw=true"
   },
   {
     "ID": 68,
@@ -765,7 +829,8 @@
     "FR #4": "The system must enable the 'Confirm code' button only after all six digits have been entered.",
     "FR #5": "The system must provide a message indicating the validity period of the verification code.",
     "FR #6": "The system must validate the entered code and display an error message if the code is incorrect or has expired.",
-    "FR #7": "The system must handle the expiration of the code validity period and provide an option for the user to request a new code if needed."
+    "FR #7": "The system must handle the expiration of the code validity period and provide an option for the user to request a new code if needed.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_068.png?raw=true"
   },
   {
     "ID": 69,
@@ -775,7 +840,8 @@
     "FR #1": "The system must send an email containing a verification code to the user's registered email address to confirm account ownership.",
     "FR #2": "The email must display a clear instruction to the user to enter the verification code in the application to confirm that the account belongs to them.",
     "FR #3": "The system must ensure the verification code is prominently displayed in the email for easy copying by the user.",
-    "FR #4": "The email should provide instructions to prevent phishing or unauthorized sharing of the verification code."
+    "FR #4": "The email should provide instructions to prevent phishing or unauthorized sharing of the verification code.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_069.png?raw=true"
   },
   {
     "ID": 70,
@@ -788,7 +854,8 @@
     "FR #4": "The system must enable the 'Confirm code' button only after all six digits have been entered.",
     "FR #5": "The system must provide a 'Resend code' button that allows users to request a new verification code if they did not receive or misplaced the initial one.",
     "FR #6": "The system must handle the logic for sending a new verification code when the 'Resend code' button is clicked, while preventing abuse by implementing cooldown timers or limits.",
-    "FR #7": "The system must validate the entered code and display an error message if the code is incorrect or has expired."
+    "FR #7": "The system must validate the entered code and display an error message if the code is incorrect or has expired.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_070.png?raw=true"
   },
   {
     "ID": 71,
@@ -798,7 +865,7 @@
     "FR #1": "The system must display a success message to inform the user that their email address has been successfully verified.",
     "FR #2": "The system must display the verified email address to confirm which email was verified.",
     "FR #3": "The system must provide information about the future use of the verified email address for two-step verification and account recovery to enhance security and access.",
-    "FR #4": "The system must inform the user that they may also receive communications related to the security of their account."
+    "FR #4": "The system must inform the user that they may also receive communications related to the security of their account.",
+    "URL": "https://github.com/andreelezc/llms_reqs/blob/master/screenshots/mockup_071.jpg?raw=true"
   }
 ]
-
