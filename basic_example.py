@@ -19,23 +19,23 @@ their relationships. Provide this as a structured JSON output. Do not add additi
 """
 
 response = client.chat.completions.create(
-  model="gpt-4o-mini",
-  messages=[
-    {
-      "role": "user",
-      "content": [
-        {"type": "text", "text": sg_prompt},
+    model="gpt-4o-mini",
+    messages=[
         {
-          "type": "image_url",
-          "image_url": {
-            "url": url
-          },
-        },
-      ],
-    }
-  ],
-  temperature=0.2,
-  max_tokens=1000,
+            "role": "user",
+            "content": [
+                {"type": "text", "text": sg_prompt},
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": url
+                    },
+                },
+            ],
+        }
+    ],
+    temperature=0.2,
+    max_tokens=1000,
 )
 
 print(response.choices[0])
